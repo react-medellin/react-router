@@ -1,0 +1,20 @@
+.NavBar {
+  width: 100%;
+  height: 60px;
+  background-color: #AED581;
+  display: flex;
+  justify-content: space-around;
+}
+
+.link-container {
+  width: 100px;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+
+.link {
+  text-decoration: none;
+  color: #333;
+  font-weight: bold;
+}
